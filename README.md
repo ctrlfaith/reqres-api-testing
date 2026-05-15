@@ -1,5 +1,7 @@
 # reqres-api-test
 
+![Playwright API Tests](https://github.com/ctrlfaith/reqres-api-testing/actions/workflows/playwright.yml/badge.svg)
+
 API Automation Test project using **Playwright** to test the [Reqres](https://reqres.in/) REST API — covering CREATE, SINGLE USER, UPDATE, and DELETE operations.
 
 ---

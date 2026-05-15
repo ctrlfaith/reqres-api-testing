@@ -23,6 +23,7 @@ This project was built as part of a QA automation assessment. The goal is to des
 - JavaScript
 - Playwright
 - Node.js
+- GitHub Actions
 
 ---
 

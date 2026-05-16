@@ -50,7 +50,7 @@ reqres-api-test/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/reqres-api-test.git
+git clone https://github.com/ctrlfaith/reqres-api-test.git
 cd reqres-api-test
 
 # 2. Install dependencies
